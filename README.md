@@ -1,13 +1,18 @@
 python3 githubPullRequests.py 
+
 List PRs for how many days?: 
 1
+
 Please enter your github API token: 
 xxxxxxxxxxxxxx
 
 
 From: devops-team@sailpoint.com
+
 To: scrum-master@sailpoint.com
+
 Subject: List of PRs in last 1 days
+
 
 PR # 0
 ==============================
